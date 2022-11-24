@@ -29,7 +29,7 @@
     background-color:cadetblue;
 }
 .calculator-grid > button:hover {
-    background-color: rgb(154, 8, 8);
+    background-color: rgba(160,0,0,255);
 }
 .span-two {
     grid-column: span 2;
@@ -38,7 +38,7 @@
 }
 .output {
     grid-column: 1 / -1;
-    background-color: rgb(154, 8, 8);
+    background-color: rgba(160,0,0,255);
     background-image: url(../assets/pngfind.com-spiderman-web-png-155058.png);
     background-repeat: no-repeat;
     background-size: contain;
